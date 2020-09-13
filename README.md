@@ -1,2 +1,2 @@
-# IAT-410-Personal-Blog
+# IAT 410 Louis' Personal Blog
 <bold>Game Dev Blog<bold>

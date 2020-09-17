@@ -17,6 +17,8 @@ the lines of a limited turn based puzzle top down dungeon crawler. In the end wi
 I helped our team came up with the concept of a top down limited movement dungeon crawler with ocassional puzzle aspects.
 I also ended up creating a possible brain visual for our game. I also helped out with the creation of the game design document and
 aided in the recognition of some possible design flaws and how we could solve it otherwise.
+![Image of Brain](https://user-images.githubusercontent.com/55293393/93465461-afbb5600-f89f-11ea-8f43-a43448b4c148.png)
+
 
 I also downloaded the Unity game engine this week in combination with visual studio for coding C#
 for the Unity game engine. I had spent some time trying to get familiar with the interface and explored 

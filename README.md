@@ -19,6 +19,7 @@ I also ended up creating a possible brain visual for our game. I also helped out
 aided in the recognition of some possible design flaws and how we could solve it otherwise.
 ![Image of Brain](https://user-images.githubusercontent.com/55293393/93465461-afbb5600-f89f-11ea-8f43-a43448b4c148.png)
 
+I didnt find there to be much of a problem with team work at this step since most of it is just ideation anyway.
 
 I also downloaded the Unity game engine this week in combination with visual studio for coding C#
 for the Unity game engine. I had spent some time trying to get familiar with the interface and explored 

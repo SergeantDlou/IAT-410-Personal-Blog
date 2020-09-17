@@ -13,8 +13,10 @@ limited turn tile based puzzle game. And Hoplite is a turn based roguelike for m
 
 I first thought we could take one of the games and put a spin on it, however, I felt like possibly
 a combination of the games would create for interesting mechanics. Something along
-the lines of a limited turn based puzzle top down dungeon crawler. In the end our team came up with
-a top down limited movement dungeon crawler with ocassional puzzle aspects.
+the lines of a limited turn based puzzle top down dungeon crawler. In the end with some of my inital ideas, 
+I helped our team came up with the concept of a top down limited movement dungeon crawler with ocassional puzzle aspects.
+I also ended up creating a possible brain visual for our game. I also helped out with the creation of the game design document and
+aided in the recognition of some possible design flaws and how we could solve it otherwise.
 
 I also downloaded the Unity game engine this week in combination with visual studio for coding C#
 for the Unity game engine. I had spent some time trying to get familiar with the interface and explored 

@@ -26,3 +26,14 @@ for the Unity game engine. I had spent some time trying to get familiar with the
 some online tutorials, espeically those of Brackeys from youtube. I ended up creating a mini 3D sliding game 
 prototype using one of his video tutorials. I believe this will be very helpful with starting me off on
 my journey to learn this game engine.
+
+
+
+WEEK2
+
+For this week it was more based on research for our game and trying to develop our mechanics for the game.
+I went and watched a couple more game design videos on youtube made by Game Makers Tool Kit. His one video called
+Nintendo-Putting Play First made me realize the importance of building a game bottom up by making sure the main mechanics of a game
+is actually enjoyable to start with and to build off the main mechanic. Using that knowledge and reviewing the comments made during the game design proposal presentation
+I went to apply that to our game. Once I took a look at our game's primary mechanic of dodging I noticed a flaw within the movement design.
+We had initially thought that the player would take damage by hitting a wall and would not be able to stop moving until it hits a wall. However we figured that you would inveitably take damage then since you can not steer away from a wall. We Did not end up comming to a conclusion to resolve this issue and decided we would take a week to come up with ideas to resolve this issue. A suggestion I had would be to allow the player to redirect themselves mid movement once. And if the angle in which the hit a wall is shallow enough it will prevent them from taking damage. However, to prevent infinite launching in the game, the redirection will be limited to 1 time per each time they touch a wall, meaning they'd have to touch a wall to reset it.

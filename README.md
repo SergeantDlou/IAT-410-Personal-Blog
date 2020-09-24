@@ -36,3 +36,6 @@ For this week it was more based on research for our game and trying to develop o
 
 
 ![Image of Game Example](https://user-images.githubusercontent.com/55293393/94105302-d886a280-fded-11ea-9630-299489c59de6.png)
+
+
+So to conclude this journal entry, we need to figure out the main mechanic before trying to implement new ideas since trying to build off of a shaky foundation will lead to disaster. Some of the movement mechanics might need to be tested via prototype before we for sure implement them since we want the movement to be fluid. This is because the game is going to be fast paced for the most part.

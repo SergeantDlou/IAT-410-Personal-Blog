@@ -39,3 +39,10 @@ For this week it was more based on research for our game and trying to develop o
 
 
 So to conclude this journal entry, we need to figure out the main mechanic before trying to implement new ideas since trying to build off of a shaky foundation will lead to disaster. Some of the movement mechanics might need to be tested via prototype before we for sure implement them since we want the movement to be fluid. This is because the game is going to be fast paced for the most part.
+
+
+WEEK3
+
+For this week I again was doing a tad more research along side with figuring out the components of our game design. For this week our team met up and discussed our game's flowboard, gameplay, cast, and narrative. I mainly analyzed the gameplay aspect of our game during our meeting and this week in general. I did the gameplay aspect of the discussion. What I ended up writing was that the main perspective in the game is going to be top down with an interaction model being avatar based. The core gameplay loop will consist of going into a room and analyzing it, dodging all the enemies and the environment, once enemies are dead then proceed to the next room. The winning play for each room is to have one enemy left and to dodge their attacks until they kill themselves. The smart depth in the game loop will be the varying environments and possible use of powerups in each room which will affect how you have to move around the room and can lead to different strategies. These different strategies will allow the player to get to winning play (having one enemy left) in different ways. A lot of gameplay mechanics relates to a game called Binding of Issac.
+
+I also then resuggested the change in movement mechanics same as before but instead of just ridirection, it will also freeze time for a second to help let the player make a decision. I got this idea mainly from one of the more interesting mechanics called "bash" from a game called Ori and the Blind forest.

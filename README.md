@@ -48,3 +48,4 @@ For this week I again was doing a tad more research along side with figuring out
 ![Game movement idea](https://user-images.githubusercontent.com/55293393/94776721-11d38b00-0377-11eb-89d6-3c3a1eec46b9.png)
 
 I also then resuggested the change in movement mechanics same as before but instead of just ridirection, it will also freeze time for a second to help let the player make a decision. I got this idea mainly from one of the more interesting mechanics called "bash" from a game called Ori and the Blind forest.
+For next week I think our team should start working on completing the prototype and do some proper tests on the mechanics to make sure the game will be enjoyable.

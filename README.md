@@ -49,3 +49,9 @@ For this week I again was doing a tad more research along side with figuring out
 
 I also then resuggested the change in movement mechanics same as before but instead of just ridirection, it will also freeze time for a second to help let the player make a decision. I got this idea mainly from one of the more interesting mechanics called "bash" from a game called Ori and the Blind forest.
 For next week I think our team should start working on completing the prototype and do some proper tests on the mechanics to make sure the game will be enjoyable.
+
+WEEK4
+
+For this week I was mostly doing research on unity and working on the prototype for this weeks lab. Our team met up to discuss the future of our game after some minorly harsh critisim recieved from the previous lab. We wanted to re-evaluate what made our game special. It seems we ended up deciding that what made the game unique was the movement and dodging component of the game. After some brainstorming and deliberating we ended up on deciding on a movement scheme where you can only launch yourself when you are near a wall. You get to freeze for a minor second to choose your direction but if you dont choose your direction in that timeframe you will then unfreeze and keep going in the same direction as before. My role this week was programming all the core mechanics into the prototype of our game. I did some reasearch for this by looking at Brackeys unity tutorials on unity and reading the unity documentation.
+
+

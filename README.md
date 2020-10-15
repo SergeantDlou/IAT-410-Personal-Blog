@@ -57,3 +57,15 @@ For this week I was mostly doing research on unity and working on the prototype 
 ![Game Prototype](https://user-images.githubusercontent.com/55293393/95422990-2a065580-08f5-11eb-8ee8-89b8fe89e8bb.PNG)
 
 I believe what our team needs to work on now is the main look of the game with animations and such along with refining the smaller details like, how much health should we have, how much health shoud he enemies have, etc. We also need to work on level design as that is also a large part of our game. We should also test out the prototype robustly as it is going to be the basis on which we will be amking our game.
+
+WEEK5
+
+For this week I mainly worked on coding and looking up resources for unity. Our team dicussed the future of our game, mechanics, and concepts we wanted to implement. We reviewed the GDD and came up with some revisions. I did most of the coding for the first playable this week. It was a good learning experience and I feel way more comfortable with the unity game engine now after spending a lot of time on it. I also learnt how to connect different unity scenes together and to make prefabs. Both of which are and were very useful in the production of the playable. I used both of those in conjunction with the level design one of my team mates had created to have the player transfer between each level and return to the begging upon death. The prefabs were used to recreate enemies between each level and edit their values durring playmode.
+
+Some things that I think that our team should add to the game for next week are:
+A visual indicator of intended trajectory (between player and current mouse position).
+A meter showing current speed and when your speed is low enough to propel yourself in any direction.
+Some audio, for example: music, sound fx, etc.
+A cooldown after wall-kicking to avoid spam clicks.
+Animations for wall kicking, enemy death, and collisions.
+Menu screen and menus in general.

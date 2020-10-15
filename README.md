@@ -71,3 +71,5 @@ Some audio, for example: music, sound fx, etc.
 A cooldown after wall-kicking to avoid spam clicks.
 Animations for wall kicking, enemy death, and collisions.
 Menu screen and menus in general.
+
+My main goal will be how to implement the animations into unity using code or other means. And the other is to do the same with audio, along with completing other visual cues.

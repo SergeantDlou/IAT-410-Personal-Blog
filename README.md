@@ -62,6 +62,8 @@ WEEK5
 
 For this week I mainly worked on coding and looking up resources for unity. Our team dicussed the future of our game, mechanics, and concepts we wanted to implement. We reviewed the GDD and came up with some revisions. I did most of the coding for the first playable this week. It was a good learning experience and I feel way more comfortable with the unity game engine now after spending a lot of time on it. I also learnt how to connect different unity scenes together and to make prefabs. Both of which are and were very useful in the production of the playable. I used both of those in conjunction with the level design one of my team mates had created to have the player transfer between each level and return to the begging upon death. The prefabs were used to recreate enemies between each level and edit their values durring playmode.
 
+![Level Design Unity](https://user-images.githubusercontent.com/55293393/96086044-84b02c00-0e76-11eb-9351-bc6260722813.PNG)
+
 Some things that I think that our team should add to the game for next week are:
 A visual indicator of intended trajectory (between player and current mouse position).
 A meter showing current speed and when your speed is low enough to propel yourself in any direction.

@@ -73,3 +73,28 @@ Animations for wall kicking, enemy death, and collisions.
 Menu screen and menus in general.
 
 My main goal will be how to implement the animations into unity using code or other means. And the other is to do the same with audio, along with completing other visual cues.
+
+WEEK 6
+
+For this week our team discussed what we wanted to accomplish within the time to the next milestone/alpha code. What we wanted to change is: 
+Integrate momentum into gameplay
+Basic enemies should probably not kill themselves on their own
+Maybe add a toggle for full view vs tight view
+Skateboarding guys dont take damage unless you’re near them
+Make sure level wall sprites 
+Speedometer
+Soft blocks will appear when all enemies are dead
+Part of level design as well (moving or stationing)
+Sound cues
+Arrow showing trajectory
+Glitchiness
+Level Counter for now
+Tutorial/story but that’s later
+Journey from house to brain tower
+Add cooldown for clicks
+When room starts add a timer before the room begins (mario cart style plz) can make graphics for it later
+Make HP pickup bigger
+Fix general scale
+
+Ive started planning out the coding aspect of things and am now thinking of implementing a fixed state machine for the AI. Was thinking of using the fixed state machine for the basic enemies to speed up when they sense the player is nearby. Along with that, I was thinking of adding so that the more advanced enemies patrol the area looking for you, and then change states when they see you. The state they will change to is one where they charge towards you at high speeds. For implementing momentum into game play I believe we should have the enemies increase speed as you increase your speed, they will then take more damage against walls but in turn apply more damage to you when they do hit you. I have also been looking up guides on how to implement sounds and small animations into unity. I believe it will be pretty simple to add. 
+

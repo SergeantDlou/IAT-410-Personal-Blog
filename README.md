@@ -98,3 +98,24 @@ Fix general scale
 
 Ive started planning out the coding aspect of things and am now thinking of implementing a fixed state machine for the AI. Was thinking of using the fixed state machine for the basic enemies to speed up when they sense the player is nearby. Along with that, I was thinking of adding so that the more advanced enemies patrol the area looking for you, and then change states when they see you. The state they will change to is one where they charge towards you at high speeds. For implementing momentum into game play I believe we should have the enemies increase speed as you increase your speed, they will then take more damage against walls but in turn apply more damage to you when they do hit you. I have also been looking up guides on how to implement sounds and small animations into unity. I believe it will be pretty simple to add. 
 
+WEEK 7
+
+Our team worked on more design and implementation of our game this week, preping for the alpha code for next week. We decided on a bunch of features we wanted to complete and are going to combine them together over the coming weekend. A list of the materials in which I have been tasked to do are:
+
+NO TELEPORTING, doors to go back and forth between rooms
+Clicking cooldown
+Sweetspot thing 
+Enemies slowing with powerup
+Shield with powerup
+Visual health bar filling back up after each level
+Visual Cue for brain 
+
+So far I have implemented the door feature by creating doors once the maps/level's enemies have died. The spawn in the walls and once collided with, it will take you to the next level. It will spawn you according to where you entered through (so if you enter through the top, it will spawn you on the bottom side of the map).
+
+![Level Design Unity](https://user-images.githubusercontent.com/55293393/96086044-84b02c00-0e76-11eb-9351-bc6260722813.PNG)
+Enter through top end up on bottom.
+![Level Design Unity](https://user-images.githubusercontent.com/55293393/96086044-84b02c00-0e76-11eb-9351-bc6260722813.PNG)
+
+I have also implemented the cooldown timer on the wall kicks (the click cooldown from the list of things to complete). I did this by having a timer count down after clicking to jump so you cannot jump from the wall until the timer is up. This will prevent the spam clicking bug that was in the game previously, it will also add a bit more challenge to the game. The health bar replenishing after each level has also been completed.
+
+Things that our team should work on this week are combining our parts of the project together (code, level design, and art) before next week and the completion of playtesting. We should also slightly revise the GDD as we have made some minor changes to it since the previous feedback from labs/playtests.

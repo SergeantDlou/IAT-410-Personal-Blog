@@ -112,7 +112,7 @@ Visual Cue for brain
 
 So far I have implemented the door feature by creating doors once the maps/level's enemies have died. The spawn in the walls and once collided with, it will take you to the next level. It will spawn you according to where you entered through (so if you enter through the top, it will spawn you on the bottom side of the map).
 
-![Level Design Unity](https://user-images.githubusercontent.com/55293393/96086044-84b02c00-0e76-11eb-9351-bc6260722813.PNG)
+![Level Transfer](https://user-images.githubusercontent.com/55293393/97658296-33cd3580-1a29-11eb-9edb-bf0a06aeceed.PNG)
 Enter through top end up on bottom.
 ![Level Design Unity](https://user-images.githubusercontent.com/55293393/96086044-84b02c00-0e76-11eb-9351-bc6260722813.PNG)
 

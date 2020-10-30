@@ -114,7 +114,7 @@ So far I have implemented the door feature by creating doors once the maps/level
 
 ![Level Transfer](https://user-images.githubusercontent.com/55293393/97658296-33cd3580-1a29-11eb-9edb-bf0a06aeceed.PNG)
 Enter through top end up on bottom.
-![Level Design Unity](https://user-images.githubusercontent.com/55293393/96086044-84b02c00-0e76-11eb-9351-bc6260722813.PNG)
+![Level Transfer 2](https://user-images.githubusercontent.com/55293393/97658361-5b240280-1a29-11eb-962b-cfd3bccb8760.PNG)
 
 I have also implemented the cooldown timer on the wall kicks (the click cooldown from the list of things to complete). I did this by having a timer count down after clicking to jump so you cannot jump from the wall until the timer is up. This will prevent the spam clicking bug that was in the game previously, it will also add a bit more challenge to the game. The health bar replenishing after each level has also been completed.
 

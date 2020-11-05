@@ -119,3 +119,8 @@ Enter through top end up on bottom.
 I have also implemented the cooldown timer on the wall kicks (the click cooldown from the list of things to complete). I did this by having a timer count down after clicking to jump so you cannot jump from the wall until the timer is up. This will prevent the spam clicking bug that was in the game previously, it will also add a bit more challenge to the game. The health bar replenishing after each level has also been completed.
 
 Things that our team should work on this week are combining our parts of the project together (code, level design, and art) before next week and the completion of playtesting. We should also slightly revise the GDD as we have made some minor changes to it since the previous feedback from labs/playtests.
+
+
+WEEK 8
+
+This week I completed the rest of the features which I had originally planned to finish last week via code on unity. Our team met up and a discussed the implementation and presentation for this week as well. I added the shield power up by creating a new object and adding a trigger collider to it. Then made it so if the player collided with it, the player will become invulnerable to collision for a short period of time. Furthermore, while the power up is active, a shield sprite will appear around the player providing visual feedback for the power up. I implemented the freeze power up in a similar fashion the only difference is that I made the acceleration factor of the enemies halve while the power up factor is in play. I had also refactored some of the door/level transition code to make it more readable and easier to implement then the previous version of the implementation.
